@@ -3,7 +3,7 @@ Laboratório de Cibersegurança
 Este repositório contém a documentação e os resultados do projeto desenvolvido na área de Cibersegurança. O foco principal foi a análise prática de segurança, simulação de intrusão e mitigação de ameaças em ambientes controlados.
 
 ## Documentação Disponível
-* *[trabalho Projeto final.pdf](./relatorio-projeto-final.pdf)*: Relatório técnico completo detalhando todas as fases do projeto, metodologias utilizadas, resultados e recomendações de segurança.
+* *[relatorio-projeto-final.pdf](./relatorio-projeto-final.pdf)*: Relatório técnico completo detalhando todas as fases do projeto, metodologias utilizadas, resultados e recomendações de segurança.
 
 ## Objetivos do Projeto
 * Realizar reconhecimento de rede ativo e passivo.
