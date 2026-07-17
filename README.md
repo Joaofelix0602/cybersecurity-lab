@@ -12,7 +12,6 @@ Este repositório contém a documentação e os resultados do projeto desenvolvi
 * Apresentar propostas detalhadas de mitigação e planos de segurança da informação.
 
 ## Ferramentas Utilizadas
-(Dica: Apaga as que não usaste ou adiciona as que usaste)
 * *Nmap* (Mapeamento de rede e varrimento de portas)
 * *Metasploit* (Simulação e exploração de vulnerabilidades)
 * *Kali Linux* (Ambiente principal de testes)
